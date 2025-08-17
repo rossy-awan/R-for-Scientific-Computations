@@ -11,8 +11,14 @@ This repository contains a comprehensive collection of **R scripts and notebooks
 - Boolean logic and relational operators
 - Basic plotting and custom visualizations
 
-### Numerical Methods & Computational Physics
-- Coming soon
+### Numerical Methods
+- Root Finding: Bisection, Newton–Raphson, Secant
+- Numerical Differentiation: Central differences
+- Numerical Integration: Trapezoidal Rule, Simpson’s Rule, Newton–Cotes
+- Ordinary Differential Equations (ODEs): Euler, Heun, Midpoint, Runge–Kutta 4
+- Interpolation: Linear, Cubic Spline
+- Regression: Linear, Nonlinear, Logistic
+- Optimization Techniques: Nelder-Mead, BFGS
 
 ### Data Science & Statistics
 - Coming soon
@@ -28,5 +34,6 @@ This repository contains a comprehensive collection of **R scripts and notebooks
 4. Modify parameters or datasets to explore behavior and performance.
 
 ---
+
 
 Feel free to fork the repository, raise issues, or suggest enhancements to help make this a better resource for the scientific and data community.
