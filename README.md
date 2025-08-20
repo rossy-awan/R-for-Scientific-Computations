@@ -21,6 +21,11 @@ This repository contains a comprehensive collection of **R scripts and notebooks
 - Optimization Techniques: Nelder-Mead, BFGS
 
 ### Data Science & Statistics
+- Descriptive Statistics: mean, median, variance, standard deviation, IQR, range, summary tables
+- Distribution Analysis: skewness, kurtosis, histograms with density plots, boxplots
+- Probability Analysis: unconditional & conditional probabilities, cumulative frequency & probability tables
+- Correlation & Covariance: covariance matrix, Pearson, Spearman, Kendall correlations
+- Confidence Intervals: t-based intervals for each variable
 - Coming soon
 
 ### Machine Learning
@@ -37,3 +42,4 @@ This repository contains a comprehensive collection of **R scripts and notebooks
 
 
 Feel free to fork the repository, raise issues, or suggest enhancements to help make this a better resource for the scientific and data community.
+
